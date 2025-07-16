@@ -26,7 +26,7 @@
 #include <string.h>
 #include "time_left_face.h"
 #include "watch.h"
-#include "watch_private_display.h"
+#include "watch_common_display.h"
 #include "watch_utility.h"
 
 const char _state_titles[][3] = {{'D', 'L', ' '}, {'D', 'L', ' '}, {'D', 'A', ' '}, {'D', 'A', ' '}, {'Y', 'R', 'b'}, {'M', 'O', 'b'}, {'D', 'A', 'b'},
